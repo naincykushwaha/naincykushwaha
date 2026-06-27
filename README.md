@@ -44,7 +44,7 @@ A secure web-based platform where students and professionals can upload, share, 
 - Responsive Design
 
 🔗 Repository:
-https://github.com/naincykushwaha/PEERNET--PEER-TO--PEER
+https://github.com/naincykushwaha/PeerNet-Resource-Sharing
 
 ---
 
