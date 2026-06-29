@@ -1,6 +1,6 @@
 # Hi 👋, I'm Naincy Kushwaha
 
-🎓 **BCA Graduate | MCA Student**
+🎓 **BCA Graduate **
 
 💻 Passionate about Web Development and Software Development.
 
